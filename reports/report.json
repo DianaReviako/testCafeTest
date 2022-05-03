@@ -1,0 +1,97 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "test-onliner.;test-filter.",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Test filter.",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 6923927300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "Onliner main page is open.",
+            "match": {
+              "location": "project\\features\\steps\\onlinerStep.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10552997399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 8,
+            "name": "Select category \"Беспроводные и портативные колонки\".",
+            "match": {
+              "location": "project\\features\\steps\\onlinerStep.js:19"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 17004999
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "Click filter \"Xiaomi\".",
+            "match": {
+              "location": "project\\features\\steps\\onlinerStep.js:23"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10021256300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "Checkbox \"Xiaomi\" checked.",
+            "match": {
+              "location": "project\\features\\steps\\onlinerStep.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10112681799
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 525300
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@onliner",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "test-onliner.",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Test onliner.",
+    "tags": [],
+    "uri": "project\\features\\onliner.feature"
+  }
+]

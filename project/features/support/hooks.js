@@ -2,12 +2,7 @@ const fs = require('fs');
 const createTestCafe = require('testcafe');
 const testControllerHolder = require('./testControllerHolder');
 const {AfterAll, setDefaultTimeout, Before, After} = require('@cucumber/cucumber');
-const { execSync } = require('child_process');
 
-
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
 
 const timeout = 100000;
 
