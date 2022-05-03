@@ -23,7 +23,7 @@ function runTest(browser) {
             return runner
                 .src('./cucumbertest.js')
                 .screenshots('reports/screenshots/', true)
-                .browsers(browser)
+                .browsers(`${browser}:headless`)
                 .run();
         }).then(function(report) {
         });
