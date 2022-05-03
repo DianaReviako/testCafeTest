@@ -1,0 +1,17 @@
+{
+    "searchInput":"input#store_nav_search_term", 
+    "searchIcon":"a#store_search_link > img", 
+    "searchResult":"div#search_resultsRows",
+    "logoIcon":"div.logo", 
+    "sortButton":"a#sort_by_trigger", 
+    "sortDropdown":"ul#sort_by_droplist", 
+    "sortOption":"a.inactive_selection", 
+    "opacity":"div[style*='opacity: 0.5']", 
+    "gamePrice":"div.search_price:not(strike)", 
+    "menuItemButton":"a.menuitem", 
+    "homePageContent":"a.tab", 
+    "gameImageLink":"div.spotlight_img>a", 
+    "loginButton":"a.global_action_link", 
+    "filterItem":"a.gutter_item", 
+    "specialOffersCheckbox":"span.tab_filter_control"
+}

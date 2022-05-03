@@ -1,0 +1,1 @@
+module.exports = baseUrl = 'https://gastronomia.by/';

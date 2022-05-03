@@ -1,0 +1,5 @@
+{
+    "title":"div.login_title",
+    "usernameInput":"input#input_username",
+    "passwordInput":"input#input_password"
+}

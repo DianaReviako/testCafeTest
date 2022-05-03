@@ -1,0 +1,5 @@
+{
+    "onlinerLogo":"img.onliner_logo",
+    "category":"span.project-navigation__sign", 
+    "checkbox":"ul.schema-filter__list>li>label>span>input[value='{0}']"
+}
