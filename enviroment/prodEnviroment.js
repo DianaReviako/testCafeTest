@@ -1,1 +1,1 @@
-module.exports = baseUrl = 'https://gastronomia.by/';
+module.exports = baseUrl = 'https://store.steampowered.com/';

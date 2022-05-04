@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/cucumber-js --format json:./reports/report.json ./project/features/onliner.feature"
+    "test": "npx cucumber-js --format json:./reports/report.json ./project/features/steam.feature"
   },
   "author": "",
   "license": "ISC",
