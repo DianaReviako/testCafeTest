@@ -13,7 +13,7 @@ var options = {
         metadata: {
             "Title": "Sample Report",
             "Browser": "Chrome",
-            "Platform": "Windows 10"
+            "Platform": "Ubuntu 22.04"
         }
     };
 
