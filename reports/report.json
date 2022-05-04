@@ -14,7 +14,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 5015292699
+              "duration": 3640426799
             }
           },
           {
@@ -27,7 +27,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 9401155200
+              "duration": 6910808500
             }
           },
           {
@@ -40,7 +40,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 25578600
+              "duration": 14241999
             }
           },
           {
@@ -53,7 +53,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 10044939300
+              "duration": 10025704999
             }
           },
           {
@@ -66,8 +66,8 @@
             },
             "result": {
               "status": "failed",
-              "duration": 24174753700,
-              "error_message": "{\n  code: 'E52',\n  isTestCafeError: true,\n  callsite: CallsiteRecord {\n    filename: 'C:\\\\Users\\\\d.revyako\\\\Documents\\\\testCafeExample\\\\framework\\\\baseElement.js',\n    lineNum: 30,\n    callsiteFrameIdx: 3,\n    stackFrames: [ [Object], [Object], [Object], [Object], [Object], [Object] ],\n    isV8Frames: true\n  },\n  apiFnChain: [\n    \"Selector('ul.schema-filter__list>li>label>span>input[value='xiaomiiii']')\",\n    \".with({ boundTestRun: <ref *1> TestController { _executionContext: null, testRun: TestRun { captureRejections: false, _clientEnvironmentPrepared: false, _messageBus: [MessageBus], warningLog: [WarningLog], opts: [Object: null prototype], test: [Test], browserConnection: [BrowserConnection], unstable: false, browser: [Object], phase: 'inTest', driverTaskQueue: [Array], testDoneCommandQueued: false, activeDialogHandler: null, activeIframeSelector: null, speed: 1, pageLoadTimeout: 3000, testExecutionTimeout: null, disablePageReloads: false, disablePageCaching: false, disableMultipleWindows: false, requestTimeout: [Object], session: [SessionController], consoleMessages: [BrowserConsoleMessages], pendingRequest: null, pendingPageError: null, controller: [Circular *1], ctx: [Object: null prototype] {}, fixtureCtx: [Object: null prototype] {}, testRunCtx: [Object: null prototype] {}, currentRoleId: null, usedRoleStates: [Object: null prototype] {}, errs: [], lastDriverStatusId: '3277.5', lastDriverStatusResponse: [ClickCommand], fileDownloadingHandled: true, resolveWaitForFileDownloadingPromise: null, attachmentDownloadingHandled: true, addingDriverTasksCount: 0, debugging: false, debugOnFail: false, disableDebugBreakpoints: false, debugReporterPluginHost: [ReporterPluginHost], browserManipulationQueue: [BrowserManipulationQueue], debugLog: [TestRunDebugLog], quarantine: null, debugLogger: [Object], observedCallsites: [ObservedCallsitesStorage], compilerService: undefined, asyncJsExpressionCallsites: Map(0) {}, replicator: [Object], disconnected: false, errScreenshotPath: null, startRunExecutionTime: 2022-05-04T11:13:33.678Z, runExecutionTimeout: null, preventEmitActionEvents: false, [Symbol(testRun)]: true }, executionChain: Promise { _then: [Array], then: [Function (anonymous)], _testController: [Circular *1], _handled: true }, warningLog: WarningLog { messageInfos: [], globalLog: [WarningLog], callback: [AsyncFunction (anonymous)], _isCopying: false } } })\",\n    \".withText('')\"\n  ],\n  apiFnIndex: 0,\n  id: 'DPIFTAW'\n}"
+              "duration": 20636723199,
+              "error_message": "{\n  code: 'E52',\n  isTestCafeError: true,\n  callsite: CallsiteRecord {\n    filename: 'C:\\\\Users\\\\d.revyako\\\\Documents\\\\testCafeExample\\\\framework\\\\baseElement.js',\n    lineNum: 30,\n    callsiteFrameIdx: 3,\n    stackFrames: [ [Object], [Object], [Object], [Object], [Object], [Object] ],\n    isV8Frames: true\n  },\n  apiFnChain: [\n    \"Selector('ul.schema-filter__list>li>label>span>input[value='xiaomiiii']')\",\n    \".with({ boundTestRun: <ref *1> TestController { _executionContext: null, testRun: TestRun { captureRejections: false, _clientEnvironmentPrepared: false, _messageBus: [MessageBus], warningLog: [WarningLog], opts: [Object: null prototype], test: [Test], browserConnection: [BrowserConnection], unstable: false, browser: [Object], phase: 'inTest', driverTaskQueue: [Array], testDoneCommandQueued: false, activeDialogHandler: null, activeIframeSelector: null, speed: 1, pageLoadTimeout: 3000, testExecutionTimeout: null, disablePageReloads: false, disablePageCaching: false, disableMultipleWindows: false, requestTimeout: [Object], session: [SessionController], consoleMessages: [BrowserConsoleMessages], pendingRequest: null, pendingPageError: null, controller: [Circular *1], ctx: [Object: null prototype] {}, fixtureCtx: [Object: null prototype] {}, testRunCtx: [Object: null prototype] {}, currentRoleId: null, usedRoleStates: [Object: null prototype] {}, errs: [], lastDriverStatusId: '2142.9000000059605', lastDriverStatusResponse: [ClickCommand], fileDownloadingHandled: true, resolveWaitForFileDownloadingPromise: null, attachmentDownloadingHandled: true, addingDriverTasksCount: 0, debugging: false, debugOnFail: false, disableDebugBreakpoints: false, debugReporterPluginHost: [ReporterPluginHost], browserManipulationQueue: [BrowserManipulationQueue], debugLog: [TestRunDebugLog], quarantine: null, debugLogger: [Object], observedCallsites: [ObservedCallsitesStorage], compilerService: undefined, asyncJsExpressionCallsites: Map(0) {}, replicator: [Object], disconnected: false, errScreenshotPath: null, startRunExecutionTime: 2022-05-04T15:05:07.080Z, runExecutionTimeout: null, preventEmitActionEvents: false, [Symbol(testRun)]: true }, executionChain: Promise { _then: [Array], then: [Function (anonymous)], _testController: [Circular *1], _handled: true }, warningLog: WarningLog { messageInfos: [], globalLog: [WarningLog], callback: [AsyncFunction (anonymous)], _isCopying: false } } })\",\n    \".withText('')\"\n  ],\n  apiFnIndex: 0,\n  id: '_wywOsF'\n}"
             }
           },
           {
@@ -75,7 +75,7 @@
             "hidden": true,
             "result": {
               "status": "passed",
-              "duration": 915700
+              "duration": 477999
             }
           }
         ],
