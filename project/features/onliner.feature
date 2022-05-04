@@ -8,4 +8,4 @@ Feature: Test onliner.
     When Select category "Беспроводные и портативные колонки".
         And Click filter "Xiaomi".
 
-    Then Checkbox "Xiaomi" checked.
+    Then Checkbox "Xiaomiiii" checked.
