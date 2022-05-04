@@ -31,6 +31,7 @@ function runTest(browser) {
 
 setDefaultTimeout(timeout);
 Before(function() {
+    fs.unlinkSync('reports/screenshots/');
     runTest('chrome');
     createTestFile();
     return this.waitForTestController.then(function(testController) {
