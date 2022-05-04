@@ -10,7 +10,7 @@ let cafeRunner = null;
 
 function createTestFile() {
     fs.writeFileSync('cucumbertest.js',
-        'import testControllerHolder from "C:/Users/d.revyako/Documents/testCafeExample/project/features/support/testControllerHolder.js";\n\n' +
+        'import testControllerHolder from "./project/features/support/testControllerHolder.js";\n\n' +
         'fixture("cucumberfixture")\n' +
         'test\n' +
         '("test", testControllerHolder.capture)')
