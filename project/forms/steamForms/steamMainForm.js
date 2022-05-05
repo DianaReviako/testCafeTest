@@ -101,6 +101,7 @@ class SteamMainForm extends BaseForm{
     }
 
     async getListOfPrices(){
+        console.log('Hello')
         let listOfPrices = [];
         for(let i = 1; i < 4; i++){
             let prices = await this.gamePrice.getElementByNumber(i).getText();
