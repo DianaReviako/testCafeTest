@@ -27,6 +27,7 @@ class Onliner extends BaseForm{
     }
 
     async isCheckboxSelected(name){
+        console.log('Hello')
         const checkboxName = name.toLowerCase()
         return this.filterChechbox(checkboxName).isChecked();
     }
